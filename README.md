@@ -2,7 +2,7 @@
 - 👀 I’m interested in Gaming, reading, programming and webdesign/dev
 - 🌱 I’m currently learning Creative software development
 - 📫 How to reach me 1025750@glr.nl, Discord (@TigoFelix)
-- 🏳️‍⚧️ Pronouns: He/Him (doesn't matter really)
+- 🖤 Pronouns: He/Him (doesn't matter really)
 
 [![Top Langs](https://github-readme-stats-ashy-seven.vercel.app/api/top-langs?username=TigoV2&theme=midnight-purple&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![TigoV2's GitHub stats](https://github-readme-stats-ashy-seven.vercel.app/api?username=TigoV2&show_icons=true&theme=midnight-purple&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
