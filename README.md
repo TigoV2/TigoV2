@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TigoV2
 - 👀 I’m interested in Gaming, reading, programming and webdesign/dev
 - 🌱 I’m currently learning Creative software development
-- 📫 How to reach me 1025750@glr.nl, Discord (@TigoFelix)
+- 📫 How to reach me: 1025750@glr.nl, Discord (@TigoFelix)
 - 🖤 Pronouns: He/Him (doesn't matter really)
 
 [![Top Langs](https://github-readme-stats-ashy-seven.vercel.app/api/top-langs?username=TigoV2&theme=midnight-purple&text_color=DA70D6&border_color=BF40BF&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
